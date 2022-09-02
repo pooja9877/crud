@@ -1,0 +1,3 @@
+=> server create and then conect to database.
+
+=> get, post, put, delete,
